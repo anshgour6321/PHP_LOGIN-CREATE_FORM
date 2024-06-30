@@ -20,4 +20,8 @@ Want to contribute? Great!
 Make a change in your file and instantaneously see your updates!
 
 # Screenshot
+# SignUp
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./IMAGES/Screenshot.png)
+
+# Login
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./IMAGES/LOGIN.png)
